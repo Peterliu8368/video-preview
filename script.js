@@ -1,1 +1,6 @@
-console.log("page loaded...");
+function playV(element) {
+    element.play();
+}
+function pauseV(element) {
+    element.pause();
+}
