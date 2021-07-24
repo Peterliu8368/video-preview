@@ -4,3 +4,7 @@ function playV(element) {
 function pauseV(element) {
     element.pause();
 }
+
+function placeholder() {
+    
+}
